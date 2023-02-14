@@ -29,4 +29,5 @@ rclone官网：https://rclone.org/
 
 #### 欢迎关注
 
-1.  橘里橘气橘子花@bilibili，https://space.bilibili.com/128589727，会带给你更多有意思的小东西。
+橘里橘气橘子花@bilibili，https://space.bilibili.com/128589727
+会带给你更多有意思的小东西。
